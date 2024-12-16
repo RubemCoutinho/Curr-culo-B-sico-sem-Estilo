@@ -1,4 +1,4 @@
-🌟 **Rubem Coutinho - Currículo Online** 🌟  
+## 🌟 **Rubem Coutinho - Currículo Online** 🌟  
 Este repositório apresenta o código-fonte de um currículo online desenvolvido em HTML e CSS.  
 O objetivo é demonstrar habilidades de criação de páginas web estruturadas, exibindo informações profissionais e qualificações de maneira organizada e responsiva.  
 
